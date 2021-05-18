@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<h1>BEKİR GERİŞ<h1/>
+<center><h1>BEKİR GERİŞ<h1/></center>
