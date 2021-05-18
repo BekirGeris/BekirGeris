@@ -17,4 +17,4 @@
   
  <h2>Contact me</h2>
 
-[E-mail](bekir.geris@gmail.com)
+[E-mail](mailto:bekir.geris@gmail.com)
