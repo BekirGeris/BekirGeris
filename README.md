@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-<h4>My name is Bekir GERİŞ<h4/>
+<h2>My name is Bekir GERİŞ<h2/>
   
   <p>
     -I am a software developer.
