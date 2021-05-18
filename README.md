@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <h4>My name is Bekir GERİŞ<h4/>
   
