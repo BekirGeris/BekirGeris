@@ -1,9 +1,4 @@
 ### Hi there 👋
 
-<center><h1>BEKİR GERİŞ<h1/></center>
-<div style="color: red; text-align: center;">
-  
-  Paragraf cümlesi.
+<h1>                    BEKİR GERİŞ<h1/>
 
-  Bir başka paragraf cümlesi.
-</div>
