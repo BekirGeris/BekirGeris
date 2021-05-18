@@ -18,5 +18,5 @@
  <h2>Contact me</h2>
 
 [BEGERS](https://play.google.com/store/apps/developer?id=Begers) </br>
-[E-mail](mailto:bekir.geris@gmail.com)
+[E-mail](mailto:bekir.geris@gmail.com) </br>
 [Linkedin](https://www.linkedin.com/in/bekir-geri%C5%9F-52b6b5205/)
