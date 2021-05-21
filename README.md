@@ -1,8 +1,8 @@
 ### Hi everyone 👋
 
-<h2>My name is Bekir GERİŞ</h2> 
+<h2>I'm Bekir GERİŞ</h2> 
   <h4>
-    -I am a software developer.
+    -I'm a software developer.
   </h4>
   
   <h3>Projects that I offer to users.</h3>
