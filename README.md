@@ -9,7 +9,7 @@
 
   [![](https://play-lh.googleusercontent.com/stCTV5TBTN2niNoTlQi_MWwe0wJI95fqZ-8K_XJCmzr1W76qExnS9Z9oyUaSfzQRs5t-=s180-rw)](https://play.google.com/store/apps/details?id=com.bek.dortislemcalisiyorum)     [![](https://play-lh.googleusercontent.com/DLNWMPZkO8jNrNaF3ebxRf_aSF1Mob9xk04_EINvOXw5tDhK0KCynF4wnyhT5RZ-8_s=s180-rw)](https://play.google.com/store/apps/details?id=com.dragon.ejderha)
   
-![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
+![Profile views](https://gpvc.arturio.dev/BekirGeris)
 
   <h2>Languages and technologies that I enjoy using while developing.</h2>
   
