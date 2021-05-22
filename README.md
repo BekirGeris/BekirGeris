@@ -11,8 +11,10 @@
   
 ![Profile views](https://gpvc.arturio.dev/BekirGeris)
 
-<a href="https://github.com/BekirGeris"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BekirGeris&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/BekirGeris"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirGeris&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<div>
+<div href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api?username=BekirGeris&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></div>  
+<div href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirGeris&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></div>
+</div>
 
   <h2>Languages and technologies that I enjoy using while developing.</h2>
   
