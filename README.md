@@ -8,12 +8,12 @@
   <h3>Projects that I offer to users.</h3>
 
   [![](https://play-lh.googleusercontent.com/stCTV5TBTN2niNoTlQi_MWwe0wJI95fqZ-8K_XJCmzr1W76qExnS9Z9oyUaSfzQRs5t-=s180-rw)](https://play.google.com/store/apps/details?id=com.bek.dortislemcalisiyorum)     [![](https://play-lh.googleusercontent.com/DLNWMPZkO8jNrNaF3ebxRf_aSF1Mob9xk04_EINvOXw5tDhK0KCynF4wnyhT5RZ-8_s=s180-rw)](https://play.google.com/store/apps/details?id=com.dragon.ejderha)
-  
+
 ![Profile views](https://gpvc.arturio.dev/BekirGeris)
 
-<div>
-<div href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api?username=BekirGeris&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></div>  
-<div href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirGeris&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></div>
+<div align='center'>
+<a href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api?username=BekirGeris&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>   
+<a href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirGeris&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 </div>
 
   <h2>Languages and technologies that I enjoy using while developing.</h2>
