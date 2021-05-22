@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-<h2>I'm Bekir GERİŞ</h2> 
+<h1 align='center'>Bekir GERİŞ</h1> 
   <h4>
     -I'm a software developer.
   </h4>
