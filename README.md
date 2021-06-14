@@ -10,6 +10,7 @@
   [![](https://play-lh.googleusercontent.com/stCTV5TBTN2niNoTlQi_MWwe0wJI95fqZ-8K_XJCmzr1W76qExnS9Z9oyUaSfzQRs5t-=s180-rw)](https://play.google.com/store/apps/details?id=com.bek.dortislemcalisiyorum)     [![](https://play-lh.googleusercontent.com/DLNWMPZkO8jNrNaF3ebxRf_aSF1Mob9xk04_EINvOXw5tDhK0KCynF4wnyhT5RZ-8_s=s180-rw)](https://play.google.com/store/apps/details?id=com.dragon.ejderha)
 
 ![Profile views](https://gpvc.arturio.dev/BekirGeris)
+![](https://komarev.com/ghpvc/?username=your-github-BekirGerise&color=dc143c)
 
 <div align='center'>
 <a href="https://github.com/BekirGeris"><img src="https://github-readme-stats.vercel.app/api?username=BekirGeris&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>   
