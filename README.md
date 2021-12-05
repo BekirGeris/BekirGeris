@@ -2,7 +2,7 @@
 
 <h1 align='center'>Bekir GERİŞ</h1> 
   <h4>
-    -I'm a software developer.
+    -Software developer.
   </h4>
   
   <h3>Projects that I offer to users.</h3>
