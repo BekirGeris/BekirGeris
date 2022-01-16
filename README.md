@@ -7,7 +7,16 @@
   
   <h3>Projects that I offer to users.</h3>
 
-[![](https://play-lh.googleusercontent.com/DLNWMPZkO8jNrNaF3ebxRf_aSF1Mob9xk04_EINvOXw5tDhK0KCynF4wnyhT5RZ-8_s=s180-rw)](https://play.google.com/store/apps/details?id=com.dragon.ejderha)  [![](https://play-lh.googleusercontent.com/stCTV5TBTN2niNoTlQi_MWwe0wJI95fqZ-8K_XJCmzr1W76qExnS9Z9oyUaSfzQRs5t-=s180-rw)](https://play.google.com/store/apps/details?id=com.bek.dortislemcalisiyorum)      [![](https://play-lh.googleusercontent.com/H8f-ozYkj8nqqoXXUaMv8wdZo3DKeIJ0F50n365yoOjlZrbqpkXEI4KVr8BQdd6MiR0=s180-rw)](https://play.google.com/store/apps/details?id=com.Begers.BallMathGame)
+<a href="https://play.google.com/store/apps/details?id=com.dragon.ejderha">
+<img border="0"
+ src="https://play-lh.googleusercontent.com/DLNWMPZkO8jNrNaF3ebxRf_aSF1Mob9xk04_EINvOXw5tDhK0KCynF4wnyhT5RZ-8_s=s180-rw" width="150" height="150">
+</a> <a href="https://play.google.com/store/apps/details?id=com.bek.dortislemcalisiyorum">
+<img border="0"
+ src="https://play-lh.googleusercontent.com/stCTV5TBTN2niNoTlQi_MWwe0wJI95fqZ-8K_XJCmzr1W76qExnS9Z9oyUaSfzQRs5t-=s180-rw" width="150" height="150">
+</a> <a href="https://play.google.com/store/apps/details?id=com.Begers.BallMathGame">
+<img border="0"
+ src="https://play-lh.googleusercontent.com/H8f-ozYkj8nqqoXXUaMv8wdZo3DKeIJ0F50n365yoOjlZrbqpkXEI4KVr8BQdd6MiR0=s180-rw" width="150" height="150">
+</a>
 
 ![](https://komarev.com/ghpvc/?username=your-github-BekirGerise&color=dc143c)
 
